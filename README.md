@@ -1,4 +1,4 @@
-<h1>Projeto de um portifolio de uma modelo</h1>
+<h1>Projeto de um portfolio de uma modelo</h1>
 
 Dando avanços nos meus estudos de Desenvolvimento full stack/front end. 
 
